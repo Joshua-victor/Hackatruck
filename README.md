@@ -1,7 +1,17 @@
 # Hackatruck
 
-Repositório de atividades, provas e resumos  do curso feito pelo Hackatruck 
+Recentemente, completei um curso EAD que aborda desde os conceitos básicos de **Swift** até tópicos mais avançados, como **modelagem**, **encapsulamento** e **classes**. O curso é estruturado de maneira iterativa e de fácil entendimento, proporcionando uma base sólida para o desenvolvimento em Swift.
 
- O curso foi feito de maneira EAD, e ele aborda desde os conceitos básicos de swift ate modelagem, encapsulamento e classes de uma maneira bem iterativa e de facil entendimento. 
- O link principal do site dele caso abram novamente turmas novas!
- Link:https://hackatruck.com.br/
+### Detalhes do Curso:
+- **Conteúdo**: Conceitos básicos de Swift, modelagem de dados, encapsulamento, classes e mais.
+- **Modalidade**: EAD (Ensino a Distância)
+- **Objetivo**: Aprofundar conhecimentos em programação orientada a objetos e desenvolvimento com Swift.
+
+### Certificado
+[Visualizar Certificado](link-do-certificado)
+
+### Sobre o Curso
+Se estiver interessado para começar fazer o curso, esse é o link do site, caso abra novas turmas;
+
+[Hackatruck](https://hackatruck.com.br/)
+
