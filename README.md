@@ -8,7 +8,7 @@ Recentemente, completei um curso EAD que aborda desde os conceitos básicos de *
 - **Objetivo**: Aprofundar conhecimentos em programação orientada a objetos e desenvolvimento com Swift.
 
 ### Certificado
-[Visualizar Certificado](link-do-certificado)
+[Visualizar Certificado](![Image](https://github.com/user-attachments/assets/e406c55a-7850-4ead-b9b0-974ba23633f4))
 
 ### Sobre o Curso
 Se estiver interessado para começar fazer o curso, esse é o link do site, caso abra novas turmas;
